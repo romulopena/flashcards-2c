@@ -69,6 +69,7 @@ body {
     transform: rotateY(180deg);
 }*/
 
+/*O código HOVER é uma pseudoclasse que funciona ao passar o mouse*/
 .cartao:hover .cartao__conteudo {
     transform: rotateY(180deg);
 }
