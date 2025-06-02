@@ -15,3 +15,9 @@ criaCartao(
     'Qual o gráfico da função quadrática?',
     'Parábola'
 )
+
+criaCartao(
+    'História',
+    'Quem descobriu o Brasil??',
+    'Pedro Álvares Cabral'
+)
