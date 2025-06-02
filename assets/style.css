@@ -56,7 +56,7 @@ body {
 }
 
 .cartao__conteudo__pergunta p {
-    color: var(--text-color);
+    color: white;
     font-weight: 500;
 }
 
@@ -68,6 +68,10 @@ body {
 .cartao.active .cartao__conteudo {
     transform: rotateY(180deg);
 }
+
+/*.cartao:hover .cartao__conteudo {
+    transform: rotateY(180deg);
+}*/
 
 .cartao__conteudo__pergunta,
 .cartao__conteudo__resposta {
