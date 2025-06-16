@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
 
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: black;
+    --card-front-color: #dfd10f;
+    --card-back-color: #f400b3;
 }
 
 body {
@@ -56,7 +56,7 @@ body {
 }
 
 .cartao__conteudo__pergunta p {
-    color: white;
+    color: green;
     font-weight: 500;
 }
 
