@@ -41,3 +41,15 @@ criaCartao(
     'Quem descobriu o Brasil??',
     'Pedro Álvares Cabral'
 )
+
+criaCartao(
+    'Redação',
+    'O que texto em prosa?',
+    'é escrito em parágrafos, de forma contínua, sem se preocupar com rimas, métrica ou ritmo, como em poemas'
+)
+
+criaCartao(
+    'Ed. Financeira',
+    'Quais os juros que existem?',
+    'simples e composto'
+)
